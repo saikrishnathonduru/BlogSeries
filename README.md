@@ -1,2 +1,2 @@
 # BlogSeries
-Code implementation of each algorithm of ML
+Code implementation of each Machine Learning algorithm
