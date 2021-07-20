@@ -6,7 +6,7 @@ The Python code for a Decision-Tree ([*decisiontreee.py*](/decisiontree.py?raw=t
 
 In this discussion we shall take a deep dive into how the algorithm runs and try to understand how the [Python dict tree](/output.tree?raw=true "Decision Tree") structure depicted in the graph below is generated recursively. 
 
-<img src="/images/decision-tree.png" width="709" height="425">
+
 
 
 ## Contents:
